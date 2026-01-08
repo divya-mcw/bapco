@@ -1,0 +1,11 @@
+C:\Users\DivyaPalanisamy\bapco\zstd\programs\benchfn.c;C:\Users\DivyaPalanisamy\bapco\zstd\out\programs\zstd.dir\Release\benchfn.obj
+C:\Users\DivyaPalanisamy\bapco\zstd\programs\benchzstd.c;C:\Users\DivyaPalanisamy\bapco\zstd\out\programs\zstd.dir\Release\benchzstd.obj
+C:\Users\DivyaPalanisamy\bapco\zstd\programs\datagen.c;C:\Users\DivyaPalanisamy\bapco\zstd\out\programs\zstd.dir\Release\datagen.obj
+C:\Users\DivyaPalanisamy\bapco\zstd\programs\dibio.c;C:\Users\DivyaPalanisamy\bapco\zstd\out\programs\zstd.dir\Release\dibio.obj
+C:\Users\DivyaPalanisamy\bapco\zstd\programs\fileio.c;C:\Users\DivyaPalanisamy\bapco\zstd\out\programs\zstd.dir\Release\fileio.obj
+C:\Users\DivyaPalanisamy\bapco\zstd\programs\fileio_asyncio.c;C:\Users\DivyaPalanisamy\bapco\zstd\out\programs\zstd.dir\Release\fileio_asyncio.obj
+C:\Users\DivyaPalanisamy\bapco\zstd\programs\lorem.c;C:\Users\DivyaPalanisamy\bapco\zstd\out\programs\zstd.dir\Release\lorem.obj
+C:\Users\DivyaPalanisamy\bapco\zstd\programs\timefn.c;C:\Users\DivyaPalanisamy\bapco\zstd\out\programs\zstd.dir\Release\timefn.obj
+C:\Users\DivyaPalanisamy\bapco\zstd\programs\util.c;C:\Users\DivyaPalanisamy\bapco\zstd\out\programs\zstd.dir\Release\util.obj
+C:\Users\DivyaPalanisamy\bapco\zstd\programs\zstdcli.c;C:\Users\DivyaPalanisamy\bapco\zstd\out\programs\zstd.dir\Release\zstdcli.obj
+C:\Users\DivyaPalanisamy\bapco\zstd\programs\zstdcli_trace.c;C:\Users\DivyaPalanisamy\bapco\zstd\out\programs\zstd.dir\Release\zstdcli_trace.obj

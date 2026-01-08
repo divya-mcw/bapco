@@ -1,0 +1,13 @@
+C:/Users/DivyaPalanisamy/bapco/zstd/out/CMakeFiles/clean-all.dir
+C:/Users/DivyaPalanisamy/bapco/zstd/out/CMakeFiles/zstd_custom.dir
+C:/Users/DivyaPalanisamy/bapco/zstd/out/CMakeFiles/INSTALL.dir
+C:/Users/DivyaPalanisamy/bapco/zstd/out/CMakeFiles/ALL_BUILD.dir
+C:/Users/DivyaPalanisamy/bapco/zstd/out/CMakeFiles/ZERO_CHECK.dir
+C:/Users/DivyaPalanisamy/bapco/zstd/out/lib/CMakeFiles/libzstd_shared.dir
+C:/Users/DivyaPalanisamy/bapco/zstd/out/lib/CMakeFiles/libzstd_static.dir
+C:/Users/DivyaPalanisamy/bapco/zstd/out/lib/CMakeFiles/uninstall.dir
+C:/Users/DivyaPalanisamy/bapco/zstd/out/lib/CMakeFiles/INSTALL.dir
+C:/Users/DivyaPalanisamy/bapco/zstd/out/lib/CMakeFiles/ALL_BUILD.dir
+C:/Users/DivyaPalanisamy/bapco/zstd/out/programs/CMakeFiles/zstd.dir
+C:/Users/DivyaPalanisamy/bapco/zstd/out/programs/CMakeFiles/INSTALL.dir
+C:/Users/DivyaPalanisamy/bapco/zstd/out/programs/CMakeFiles/ALL_BUILD.dir

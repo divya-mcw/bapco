@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DivyaPalanisamy\bapco\zstd\out\CMakeFiles\903ca5b37ed1ea23218a1ccf13abba88\clean-all.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DivyaPalanisamy\bapco\zstd\build\cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\DivyaPalanisamy\bapco\zstd\out\CMakeFiles\clean-all" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F0D72EE2-4529-30F8-9BAF-6D814E79692D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

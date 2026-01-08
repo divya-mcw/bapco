@@ -1,0 +1,10 @@
+^C:\USERS\DIVYAPALANISAMY\BAPCO\WORKLOAD\BUILD\CMAKEFILES\5DD88F033030C2DC09DC1C3324AE50CA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/DivyaPalanisamy/bapco/workload -BC:/Users/DivyaPalanisamy/bapco/workload/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/DivyaPalanisamy/bapco/workload/build/zstd_workload.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

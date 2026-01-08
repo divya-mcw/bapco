@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/DivyaPalanisamy/bapco/zstd/build/cmake/CMakeModules/JoinPaths.cmake
+C:/Users/DivyaPalanisamy/bapco/zstd/build/cmake/lib/CMakeLists.txt
+C:/Users/DivyaPalanisamy/bapco/zstd/build/cmake/lib/cmake_uninstall.cmake.in
+C:/Users/DivyaPalanisamy/bapco/zstd/lib/libzstd.pc.in

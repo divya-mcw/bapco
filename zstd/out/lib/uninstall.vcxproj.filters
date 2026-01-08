@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DivyaPalanisamy\bapco\zstd\out\CMakeFiles\bcfac4019400443fd24899ed1c920e8e\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\DivyaPalanisamy\bapco\zstd\build\cmake\lib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\DivyaPalanisamy\bapco\zstd\out\lib\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F0D72EE2-4529-30F8-9BAF-6D814E79692D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

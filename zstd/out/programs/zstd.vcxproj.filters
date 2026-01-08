@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\DivyaPalanisamy\bapco\zstd\programs\benchfn.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DivyaPalanisamy\bapco\zstd\programs\benchzstd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DivyaPalanisamy\bapco\zstd\programs\datagen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DivyaPalanisamy\bapco\zstd\programs\dibio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DivyaPalanisamy\bapco\zstd\programs\fileio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DivyaPalanisamy\bapco\zstd\programs\fileio_asyncio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DivyaPalanisamy\bapco\zstd\programs\lorem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DivyaPalanisamy\bapco\zstd\programs\timefn.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DivyaPalanisamy\bapco\zstd\programs\util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DivyaPalanisamy\bapco\zstd\programs\zstdcli.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DivyaPalanisamy\bapco\zstd\programs\zstdcli_trace.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DivyaPalanisamy\bapco\zstd\build\cmake\programs\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{445F4870-7410-364D-A20C-86843CB3BEA8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\DIVYAPALANISAMY\BAPCO\ZSTD\OUT\CMAKEFILES\903CA5B37ED1EA23218A1CCF13ABBA88\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/DivyaPalanisamy/bapco/zstd/build/cmake -BC:/Users/DivyaPalanisamy/bapco/zstd/out --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/DivyaPalanisamy/bapco/zstd/out/zstd.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

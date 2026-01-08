@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/DivyaPalanisamy/bapco/zstd/out/cmake_install.cmake",
+		"C:/Users/DivyaPalanisamy/bapco/zstd/out/lib/cmake_install.cmake",
+		"C:/Users/DivyaPalanisamy/bapco/zstd/out/programs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

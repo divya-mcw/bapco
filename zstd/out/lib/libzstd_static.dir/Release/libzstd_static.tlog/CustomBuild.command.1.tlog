@@ -1,0 +1,10 @@
+^C:\USERS\DIVYAPALANISAMY\BAPCO\ZSTD\BUILD\CMAKE\LIB\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/DivyaPalanisamy/bapco/zstd/build/cmake -BC:/Users/DivyaPalanisamy/bapco/zstd/out --check-stamp-file C:/Users/DivyaPalanisamy/bapco/zstd/out/lib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
