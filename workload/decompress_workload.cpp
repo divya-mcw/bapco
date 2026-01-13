@@ -17,13 +17,8 @@ static std::vector<char> readFile(const char* filename) {
     return buffer;
 }
 
-int main(int argc, char** argv) {
-    if (argc < 2) {
-        std::cerr << "Usage: decompress_workload <file.tar.zst>\n";
-        return 1;
-    }
-
-    auto compressed = readFile(argv[1]);
+void run_decompress(const char* inputFile) {
+    auto compressed = readFile(inputFile);
     size_t compressedSize = compressed.size();
 
     unsigned long long originalSize =
@@ -31,8 +26,7 @@ int main(int argc, char** argv) {
 
     if (originalSize == ZSTD_CONTENTSIZE_ERROR ||
         originalSize == ZSTD_CONTENTSIZE_UNKNOWN) {
-        std::cerr << "Cannot determine original size\n";
-        return 1;
+        throw std::runtime_error("Cannot determine original size");
     }
 
     std::vector<char> decompressed((size_t)originalSize);
@@ -47,9 +41,7 @@ int main(int argc, char** argv) {
     auto t2 = std::chrono::high_resolution_clock::now();
 
     if (ZSTD_isError(decompressedSize)) {
-        std::cerr << "Decompression error: "
-                  << ZSTD_getErrorName(decompressedSize) << "\n";
-        return 1;
+        throw std::runtime_error(ZSTD_getErrorName(decompressedSize));
     }
 
     auto timeUs =
@@ -59,6 +51,4 @@ int main(int argc, char** argv) {
     std::cout << compressedSize << ","
               << decompressedSize << ","
               << timeUs << "\n";
-
-    return 0;
 }
